@@ -1,0 +1,40 @@
+nox-shopify-theme/
+├── assets/
+│   ├── base.css
+│   ├── theme.js
+│   ├── animations.css
+│   ├── cart.js
+│   └── product.js
+├── config/
+│   ├── settings_data.json
+│   └── settings_schema.json
+├── layout/
+│   └── theme.liquid
+├── locales/
+│   ├── en.default.json
+│   └── ar.json
+├── sections/
+│   ├── hero.liquid
+│   ├── header.liquid
+│   ├── footer.liquid
+│   ├── featured-products.liquid
+│   ├── featured-collections.liquid
+│   ├── newsletter.liquid
+│   ├── instagram-feed.liquid
+│   ├── lookbook.liquid
+│   ├── countdown.liquid
+│   └── testimonials.liquid
+├── snippets/
+│   ├── product-card.liquid
+│   ├── price.liquid
+│   ├── icons.liquid
+│   └── cart-drawer.liquid
+├── templates/
+│   ├── index.json
+│   ├── product.json
+│   ├── collection.json
+│   ├── cart.json
+│   ├── page.about.json
+│   └── page.lookbook.json
+├── README.md
+└── LICENSE
